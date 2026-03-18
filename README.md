@@ -18,3 +18,7 @@ This script was deployed and executed on an AWS EC2 Linux instance, simulating a
 
 ## Purpose
 Demonstrates system monitoring, automation, and hands-on cloud deployment experience.
+
+## Running on AWS EC2
+
+![EC2 Screenshot](ec2-running.png)
